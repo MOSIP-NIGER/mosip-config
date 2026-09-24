@@ -100,5 +100,5 @@ console = true              # Default is false
 # Enable printing trace logs in console
 console = false              # Default is false
 
-[ballerina.log]
-level = "DEBUG"
+#[ballerina.log]
+#level = "DEBUG"
