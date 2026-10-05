@@ -7,7 +7,7 @@
 			"value" : "selectedHandles"
 		},
 		"name": {
-			"value": "fullName"
+			"value": "firstName,lastName"
 		},
 		"gender": {
 			"value": "gender"
@@ -172,7 +172,8 @@
 		}
 	},
 	"attributeUpdateCountLimit": {
-		"fullName": 5,
+		"firstName": 5,
+		"lastName": 5,
 		"gender": 2,
 		"dateOfBirth": 3
 	}
